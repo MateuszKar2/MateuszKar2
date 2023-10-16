@@ -1,4 +1,5 @@
-🧤Hi, my name is Mateusz
+👋 Hi, my name is Mateusz
+
 
 I am a Full Stack Developer from Poland.
 
