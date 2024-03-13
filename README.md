@@ -19,7 +19,7 @@ I am a Full Stack Developer from Poland :poland:
 
 - :zap: In my free time, I read, spend time outdoors, and play the basketball.
 
-- :mailbox: You can reach me here => [![Linkedin Badge](https://img.shields.io/badge/-potocki92-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-potocki)
+- :mailbox: You can reach me here => 
 
 ---
 ### :hammer_and_wrench: Languages and Tools that I use:
