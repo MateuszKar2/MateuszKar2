@@ -3,7 +3,7 @@ Hi there 👋 my name is Mateusz!
 </h1>
 
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/mateusz-potocki">
+<a href="https://www.linkedin.com/in/mateuszkarpi%C5%84ski">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
