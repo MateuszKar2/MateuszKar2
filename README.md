@@ -19,7 +19,7 @@ I am a Full Stack Developer from Poland :poland:
 
 - :zap: I read books, spend time outdoors and travel.
 
-- :mailbox: You can reach me here => [![Linkedin Badge]]
+- :mailbox: You can reach me here => <a href="https://www.linkedin.com/in/mateuszkarpi%C5%84ski">
 
 ---
 ### :hammer_and_wrench: Languages and Tools that I use:
