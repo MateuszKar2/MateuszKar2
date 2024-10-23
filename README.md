@@ -2,6 +2,7 @@
 Hi there 👋 my name is Mateusz!
 </h1>
 
+
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/mateuszkarpi%C5%84ski">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +10,6 @@ Hi there 👋 my name is Mateusz!
 </div>
 
 ---
-
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Poland :poland:
 
