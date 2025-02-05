@@ -71,7 +71,7 @@ I am a Full Stack Developer from Poland :poland:
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/guide/introduction.html)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateuszKar2&show_icons=true&locale=en&layout=compact" alt="daria31v" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateuszKar2&show_icons=true&locale=en&layout=compact" alt="MateuszKar2" /></p>
 
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=MateuszKar2&theme=react&hide_border=true)
 
