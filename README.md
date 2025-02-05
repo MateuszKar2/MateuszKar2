@@ -73,6 +73,8 @@ I am a Full Stack Developer from Poland :poland:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateuszKar2&show_icons=true&locale=en&layout=compact" alt="daria31v" /></p>
 
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=MateuszKar2&theme=react&hide_border=true)
+
 
 
 
