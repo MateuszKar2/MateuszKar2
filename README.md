@@ -14,10 +14,11 @@
 I am a Full Stack Developer from Poland :poland:
 
 - :telescope: I am seeking new opportunities and challenges as a Full-Stack Developer.
-- :seedling: Exploring **TypeScript** and **React**.
+- :seedling: Exploring **TypeScript**, **Vue.js**, and **Angular**.
+- :shield: Currently pursuing **CompTIA Security+** certification to deepen my knowledge in **Cybersecurity**.
 - :zap: I love reading books, spending time outdoors, and traveling.
 - :mailbox: You can reach me here => [LinkedIn](https://www.linkedin.com/in/mateuszkarpi%C5%84ski)
-
+- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools that I use:
