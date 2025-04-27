@@ -14,7 +14,7 @@
 I am a Full Stack Developer from Poland :poland:
 
 - :telescope: I am seeking new opportunities and challenges as a Full-Stack Developer.
-- :seedling: Exploring **TypeScript** and **Vue.js**.
+- :seedling: Exploring **TypeScript** and **React**.
 - :zap: I love reading books, spending time outdoors, and traveling.
 - :mailbox: You can reach me here => [LinkedIn](https://www.linkedin.com/in/mateuszkarpi%C5%84ski)
 
@@ -49,6 +49,7 @@ I am a Full Stack Developer from Poland :poland:
 
 #### Future Skills:
 [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/guide/introduction.html)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 
 ---
 
