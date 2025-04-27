@@ -39,8 +39,6 @@ I am a Full Stack Developer from Poland :poland:
 
 #### Backend Development:
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-
-#### Database:
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 #### Software:
