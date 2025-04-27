@@ -17,7 +17,7 @@ I am a Full Stack Developer from Poland :poland:
 - :seedling: Exploring **TypeScript**, **Vue.js**, and **Angular**.
 - :shield: Currently pursuing **CompTIA Security+** certification to deepen my knowledge in **Cybersecurity**.
 - :zap: I love reading books, spending time outdoors, and traveling.
-- :portfolio: You can reach me here => [Portfolio](https://mateuszkar2.github.io/portfolio/projects)
+- You can reach me here => [Portfolio](https://mateuszkar2.github.io/Portfolio/)
 
 ---
 
