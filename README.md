@@ -24,6 +24,7 @@ I am a Full Stack Developer from Poland :poland:
 
 #### Programming Languages:
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 
 #### Frontend Development:
 <p>
@@ -49,7 +50,6 @@ I am a Full Stack Developer from Poland :poland:
 </p>
 
 #### Future Skills:
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/guide/introduction.html)
 
 ---
